@@ -1,5 +1,6 @@
 {
     "conventionalCommits.scopes": [
-        "codespace"
+        "codespace",
+        "week_1"
     ]
 }
