@@ -24,4 +24,7 @@ Week 3 ➡️ Homework Complete ✅ Review Questions Complete ✅
 
 
 <br></br>
-Week 4 ➡️ Homework Complete ❌ Review Questions Complete ❌
+Week 4 ➡️ Homework Complete ✅ Review Questions Complete ❌
+* Accuracy, precision and recall
+* ROC and AUC 
+* Folding
