@@ -17,7 +17,14 @@ Week 2 ➡️ Homework Complete ✅ Review Questions Complete ✅
 * Understanding training a model, using it to predict, and calculating the squared error
 
  <br></br>
-Week 3 ➡️ Homework Complete ✅ Review Questions Complete ❌
+Week 3 ➡️ Homework Complete ✅ Review Questions Complete ✅
 * Splitting datasets using train_test_split
 * Doing logistic regression with the library
 * Feature elimination and mutual information score
+
+
+<br></br>
+Week 4 ➡️ Homework Complete ✅ Review Questions Complete ❌
+* Accuracy, precision and recall
+* ROC and AUC 
+* Folding
