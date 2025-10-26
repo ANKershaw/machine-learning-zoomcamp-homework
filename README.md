@@ -29,7 +29,7 @@ Week 4 ➡️ Homework Complete ✅ Review Questions Complete ❌
 * ROC and AUC 
 * Folding
 
-br></br>
+<br></br>
 Week 5 ➡️ Homework Complete ✅ Review Questions Complete ❌
 * uv
 * fastapi
