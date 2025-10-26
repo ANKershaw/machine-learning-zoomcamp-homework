@@ -28,3 +28,10 @@ Week 4 ➡️ Homework Complete ✅ Review Questions Complete ❌
 * Accuracy, precision and recall
 * ROC and AUC 
 * Folding
+
+br></br>
+Week 5 ➡️ Homework Complete ✅ Review Questions Complete ❌
+* uv
+* fastapi
+* uvicorn
+* docker
