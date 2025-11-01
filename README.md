@@ -29,9 +29,15 @@ Week 4 ➡️ Homework Complete ✅ Review Questions Complete ❌
 * ROC and AUC 
 * Folding
 
-br></br>
+<br></br>
 Week 5 ➡️ Homework Complete ✅ Review Questions Complete ❌
 * uv
 * fastapi
 * uvicorn
 * docker
+
+<br></br>
+Week 6 ➡️ Homework Complete ✅ Review Questions Complete ❌
+* decision trees
+* random forest
+* xgboost
