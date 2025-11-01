@@ -35,3 +35,9 @@ Week 5 ➡️ Homework Complete ✅ Review Questions Complete ❌
 * fastapi
 * uvicorn
 * docker
+
+<br></br>
+Week 6 ➡️ Homework Complete ✅ Review Questions Complete ❌
+* decision trees
+* random forest
+* xgboost
