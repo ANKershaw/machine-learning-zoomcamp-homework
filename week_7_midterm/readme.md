@@ -1,0 +1,1 @@
+The week 7 midterm project is available here : https://github.com/ANKershaw/Income_Prediction
