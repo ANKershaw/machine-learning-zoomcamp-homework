@@ -24,7 +24,7 @@ Week 3 ➡️ Homework Complete ✅ Review Questions Complete ✅
 
 
 <br></br>
-Week 4 ➡️ Homework Complete ✅ Review Questions Complete ❌
+Week 4 ➡️ Homework Complete ✅ Review Questions Complete ✅
 * Accuracy, precision and recall
 * ROC and AUC 
 * Folding
@@ -41,3 +41,6 @@ Week 6 ➡️ Homework Complete ✅ Review Questions Complete ❌
 * decision trees
 * random forest
 * xgboost
+
+<br></br>
+Week 7 ➡️ Midterm project, located here : https://github.com/ANKershaw/Income_Prediction 
