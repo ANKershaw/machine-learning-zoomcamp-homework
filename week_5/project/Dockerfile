@@ -1,7 +1,8 @@
 FROM agrigorev/zoomcamp-model:2025
 LABEL authors="ANkershaw"
 
-RUN pip install uv
+#RUN pip install uv
+COPY --from=ghcr.io/astral-sh/uv:latest /uv /uvx /bin/
 
 WORKDIR /app
 
