@@ -255,5 +255,11 @@ __marimo__/
 # Week 8 hair data
 /week_8/data/train
 /week_8/data/test
-/week8/data/data.zip
+week_8/data
+
+# Week 9 hair data
+/week_9/hair_classifier_v1.onnx.data
+
+
+
 
